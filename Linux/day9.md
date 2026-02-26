@@ -13,10 +13,10 @@ Modes of Vim :
 ## cat 
 ```
 cat filename --> to read file 
-cat > filename --> to overite txt 
+cat > filename --> to overwrite text
 cat >> filename --> to upend the text 
-cat 2>> filename --> to past error in file 
-cat &>> filename --> to past output in the file 
+cat 2>> filename --> to paste error in the file 
+cat &>> filename --> to paste output in the file 
 ```
 
 
